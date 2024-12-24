@@ -10,7 +10,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "/images/bread-pizza.jpg",
+    image: "/Images/bread-pizza.jpg",
     description: "Bread Pizza",
   },
   {
@@ -38,7 +38,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "/images/bread-pizza.jpg",
+    image: "/Images/bread-pizza.jpg",
     description: "Bread Pizza",
   },
   {
@@ -52,7 +52,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "/images/classic-cheese-pizza.jpg",
+    image: "/Images/classic-cheese-pizza.jpg",
     description: "Bread Pizza",
   },
   {
@@ -66,7 +66,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "/images/paneer-pizza.jpg",
+    image: "/Images/paneer-pizza.jpg",
     description: "Bread Pizza",
   },
   {
@@ -80,7 +80,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "/images/pepperoni-pizza.jpg",
+    image: "/Images/pepperoni-pizza.jpg",
     description: "Bread Pizza",
   },
 ];
