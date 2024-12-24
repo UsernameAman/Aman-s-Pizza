@@ -9,7 +9,7 @@ export default function Pizza({pizza}) {
     <div>
         
       <h1>{pizza.name}</h1>
-      <img src={pizza.image} alt='ok' style={{height:'200px', width:'200px'}}/>
+      <img src={pizza.image} style={{height:'200px', width:'200px'}}/>
       <div className='flex-container'>
         <div className='varient'>
             <p>Varients</p>
