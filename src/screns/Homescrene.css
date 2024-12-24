@@ -1,0 +1,24 @@
+.row{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns of equal width */
+    gap: 20px; /* Add spacing between the items */
+    padding: 10px;
+}
+.row > div {
+    border: 1px solid #ddd; /* Optional: Add a border for visualization */
+    padding: 10px;
+    background-color: #f9f9f9; /* Optional: Background color */
+    text-align: center; /* Optional: Center-align text */
+  }
+  @media (max-width: 750px) {
+    .row {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    }
+}
+
+/* Media query for screens smaller than 410px */
+@media (max-width: 500px) {
+    .row {
+        grid-template-columns: 1fr; /* 1 column */
+    }
+}

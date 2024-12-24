@@ -1,0 +1,35 @@
+img{
+    border-radius: 100%;
+}
+.varient,.quantity,.prices,.carts{
+    width: 100%;
+    
+}
+p{
+    text-align: center;
+}
+select{
+    text-decoration: none;
+    border: 1px solid blue;
+    outline: none;
+    padding: 10px;
+    background: rgb(206, 206, 219);
+    color: #000;
+    font-size: 15px;
+}
+.btn{
+    margin-top: 10px;
+    padding: 10px;
+    background: #ff4500;
+    border: 2px solid black;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 8px 16px yellow, 0 6px 20px blue;
+    transition-duration: 0.3s;
+
+}
+.btn:hover{
+    box-shadow: 0 12px 16px blue,0 6px 20px yellow;
+    transform: translateY(-2px);
+}
