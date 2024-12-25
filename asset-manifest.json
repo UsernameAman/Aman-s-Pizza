@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aman-s-Pizza/static/css/main.cbc7b0d6.css",
-    "main.js": "/Aman-s-Pizza/static/js/main.15055219.js",
+    "main.css": "/Aman-s-Pizza/static/css/main.a7188140.css",
+    "main.js": "/Aman-s-Pizza/static/js/main.2ff924b3.js",
     "index.html": "/Aman-s-Pizza/index.html",
-    "main.cbc7b0d6.css.map": "/Aman-s-Pizza/static/css/main.cbc7b0d6.css.map",
-    "main.15055219.js.map": "/Aman-s-Pizza/static/js/main.15055219.js.map"
+    "main.a7188140.css.map": "/Aman-s-Pizza/static/css/main.a7188140.css.map",
+    "main.2ff924b3.js.map": "/Aman-s-Pizza/static/js/main.2ff924b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc7b0d6.css",
-    "static/js/main.15055219.js"
+    "static/css/main.a7188140.css",
+    "static/js/main.2ff924b3.js"
   ]
 }
